@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hu-bi-lin.github.io/sitemap.xml

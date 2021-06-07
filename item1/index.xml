@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Item1s on </title>
+    <link>https://hu-bi-lin.github.io/item1/</link>
+    <description>Recent content in Item1s on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://hu-bi-lin.github.io/item1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>智能生成传播的诠释</title>
+      <link>https://hu-bi-lin.github.io/item1/category1/page1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-bi-lin.github.io/item1/category1/page1/</guid>
+      <description>“智能生成传播”，是以智能融合为主线、以生成范式为主导、以塑造传播为主体的一种新的理论体系、一种新的传播学研究范式和一种新的实践模式。
+与传统判别为主导的传播学研究范式，辩证统一，相辅相成。
+实践性、智能化和方法论是智能生成传播的最鲜明的特征。
+1 智能生成传播立足于实践传播学，重在基于以生成为主导的研究范式，以新媒体艺术为主要形式，以人工智能的算法模块为工具手段，生成塑造出全新的传播媒介和传播讯息，以强效果、高效率地解决传播实践问题。
+2 智能生成传播基于计算机科学与传播学跨学科研究，基于人工智能和人类智能相融合，是计算机科学介入传播学并赋能和重构传播学的产物。
+3 智能生成传播根植于“媒介即讯息”、“塑造即传播”、“生成即判别”三大建构逻辑，最适合聚焦对接于人文艺术和文化旅游，最主要的生成塑造表现形式是新媒体艺术。</description>
+    </item>
+    
+    <item>
+      <title>智能生成传播的学术聚焦</title>
+      <link>https://hu-bi-lin.github.io/item1/category1/page2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-bi-lin.github.io/item1/category1/page2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>智能生成传播的实践聚焦</title>
+      <link>https://hu-bi-lin.github.io/item1/category1/page3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-bi-lin.github.io/item1/category1/page3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>智能生成传播的国内外新媒体艺术展示</title>
+      <link>https://hu-bi-lin.github.io/item1/category1/page4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-bi-lin.github.io/item1/category1/page4/</guid>
+      <description>测试一下</description>
+    </item>
+    
+  </channel>
+</rss>

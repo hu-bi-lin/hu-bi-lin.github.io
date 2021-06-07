@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on </title>
+    <link>https://hu-bi-lin.github.io/docs/</link>
+    <description>Recent content in Docs on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://hu-bi-lin.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“沪比邻”自媒体的诠释</title>
+      <link>https://hu-bi-lin.github.io/docs/category1/page1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-bi-lin.github.io/docs/category1/page1/</guid>
+      <description>沪比邻自媒体，即指上海与浙苏皖和其它省市之间合作互动的基于智能生成传播的自媒体平台。
+“沪比邻”，乃本网站新创立的基于上海特定领域特定区域合作的新媒体专业服务品牌，旨在探索新媒体服务于上海龙头引领和合作共振的新模式新路径新业态。其定位有三：
+1 基于上海与国内各省市之间的合作互动和共振比邻关系，取“海内存知己，天涯若比邻”之意；
+2 聚焦于智能生成传播这一新兴学科和实践领域，突出新媒体艺术与智能生成传播之间个性与共性的互为表里；
+3 将智能生成传播与新媒体艺术对接人文艺术和文化旅游产业，力求产学研一体化与沪比邻合作共振之间水乳交融。</description>
+    </item>
+    
+    <item>
+      <title>基于上海的智能生成传播的亮点推介和新媒体艺术展示及专家点评</title>
+      <link>https://hu-bi-lin.github.io/docs/category1/page2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-bi-lin.github.io/docs/category1/page2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>沪比邻基于智能生成传播的合作互动之成功案例及专家点评</title>
+      <link>https://hu-bi-lin.github.io/docs/category1/page3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-bi-lin.github.io/docs/category1/page3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>沪比邻自媒体平台的服务模式</title>
+      <link>https://hu-bi-lin.github.io/docs/category1/page4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hu-bi-lin.github.io/docs/category1/page4/</guid>
+      <description>1 沪比邻双向或多向的展示平台 2 沪比邻双向或多向交流平台 3 基于上海的创意、制作的专家、人才和团队的聚集共振合作平台 4 基于上海和其他国内外专家的智能生成传播的咨询平台 </description>
+    </item>
+    
+  </channel>
+</rss>
